@@ -1,5 +1,5 @@
 # HRApp API
-This is an API that  will allow others to develop  human resource applications. It analized, designed and implemented two classes: Employee and Department. The employee class holds information such as ID, name and salary about employees and the department class holds information about department and a collection of employees for that department. The API is tested in the main method. 
+This is an API that  will allow others to develop  human resource applications. It analized, designed and implemented two classes: Employee and Department. The employee class holds information such as ID, name and salary about employees and the department class holds information about department and a collection of employees for that department. The API is tested in the main method as followed. 
 <ul>
  <li> Creating a new department </li>
 <li> Creating a few employees </li>
@@ -8,4 +8,9 @@ This is an API that  will allow others to develop  human resource applications. 
  <li> Print the total Salary of the department </li>
 
 </ul>
+
+Here is an example of the output 
+
+HR App Starts
+Department
 
