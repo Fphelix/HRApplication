@@ -9,7 +9,7 @@
 
 </ul>
 
-| Syntax      | Description | Test Text     |
+| EmpId      | Employee Name | Salary     |
 | :---        |    :----:   |          ---: |
 | Header      | Title       | Here's this   |
 | Paragraph   | Text        | And more      |
