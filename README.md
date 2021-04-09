@@ -13,4 +13,8 @@ Here is an example of the output
 
 HR App Starts
 Department
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
 
