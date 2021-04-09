@@ -13,11 +13,10 @@ Here is an example of the output
 
 HR App Starts
 Department
-| Syntax      | Description |
-| ----------- | ----------- |
-| Employee: 101 Ann 1234.56
-  Employee: 101 Ann 1200.34
-  Employee: 101 Ann 1500.50
+
+ Employee: 101 Ann 1234.56
+ Employee: 101 Ann 1200.34
+ Employee: 101 Ann 1500.50
 |
 | Paragraph   | Text        |
 
